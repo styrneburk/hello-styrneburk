@@ -1,5 +1,2 @@
-# hello-styrneburk
-Just a styrneburkian repository 
 
-Changing content within a branch. 
-Intend to include it in the master file. 
+Over a year ago now, I went looking for the best plugins to turn Vim into a full-fledged IDE. Interestingly, a lot of the comments on that post were about how Emacs already has most of these plugins built in, and was already a great IDE. Although I can only agree about Emacs' incredible versatility, it is still not the ultimate editor when it comes out of the box. Thankfully, its vast plugin library is here to fix that. But among the plethora of options available to you, it is sometimes hard to know where to start. So for now, let me try to assemble a short list of the indispensable plugins to increase your productivity while using Emacs. Although I am heavily geared towards programming related productivity, most of these plugins would be useful to anyone for any usage.
